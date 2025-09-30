@@ -6,5 +6,5 @@
  if (chute == numeroSecreto) {
     alert('Acertou')
  }else{
-    console.log('Errooou!!');
+    alert('Errooou!!');
  }
