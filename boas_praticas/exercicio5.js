@@ -3,3 +3,11 @@
 // Em seguida, realize a soma desses dois valores e armazene o resultado em uma
 //  terceira variável chamada "resultado". Utilize o console.log para mostrar a 
 // mensagem "A soma de [valor1] e [valor2] é igual a [resultado]." no console.
+
+let valor1=5;
+
+let valor2=10;
+
+let resultado = valor1 + valor2;
+
+console.log(`A soma de ${valor1} e ${valor2} é igual a ${resultado}.`);
