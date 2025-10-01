@@ -28,6 +28,11 @@ O objetivo é consolidar fundamentos essenciais de programação, aplicando boas
  ┣ 📂 Loops tentativas
  ┗ 📜 README.md
 
-<img width="1733" height="895" alt="Captura de tela 2025-10-01 112327" src="https://github.com/user-attachments/assets/a88e53e4-8c95-44b9-afd0-c8e92c7599d3" />
+
+
+
+<img width="1733" height="895" alt="Captura de tela 2025-10-01 112327" src="https://github.com/user-attachments/assets/0b3443b1-5b7d-40bf-b692-100b38b62d0d" />
+
+
 
 
